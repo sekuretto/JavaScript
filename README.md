@@ -65,11 +65,13 @@ Kurssi suoritettu keväällä 2021.
 - [Sound Board](../master/sound-board)
 - [Dad Jokes](../master/dad-jokes)
 - [Event KeyCodes](../master/event-keycodes)
-- FAQ Collapse
-- Random Choice Picker
+- [FAQ Collapse](../master/faq-collapse)
+- [Random Choice Picker](../master/random-choice-picker)
 - Animated Navigation
 - Incrementing Counter
 - Drink Water
+- Movie App
+- Background Slider
 -
 -
 -
