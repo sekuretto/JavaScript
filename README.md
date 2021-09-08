@@ -67,11 +67,12 @@ Kurssi suoritettu keväällä 2021.
 - [Event KeyCodes](../master/event-keycodes)
 - [FAQ Collapse](../master/faq-collapse)
 - [Random Choice Picker](../master/random-choice-picker)
-- Animated Navigation
+- [Animated Navigation](../master/animated-navigation)
 - Incrementing Counter
 - Drink Water
 - Movie App
 - Background Slider
+- Theme Clock
 -
 -
 -

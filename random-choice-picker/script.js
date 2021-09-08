@@ -7,6 +7,7 @@ textarea.addEventListener('keyup', (e) => {
     createTags(e.target.value)
 
     if(e.key === 'Enter') {
+        //clear input after 10 milliseconds
         setTimeout(() => {
             e.target.value = ''
         }, 10)
