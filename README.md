@@ -68,11 +68,13 @@ Kurssi suoritettu keväällä 2021.
 - [FAQ Collapse](../master/faq-collapse)
 - [Random Choice Picker](../master/random-choice-picker)
 - [Animated Navigation](../master/animated-navigation)
-- Incrementing Counter
-- Drink Water
+- [Incrementing Counter](..master/incrementing-counter)
+- [Drink Water](..master/drink-water)
 - Movie App
 - Background Slider
 - Theme Clock
+- Button Ripple Effect
+- Drag n Drop
 -
 -
 -
