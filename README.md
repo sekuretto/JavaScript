@@ -71,11 +71,14 @@ Kurssi suoritettu keväällä 2021.
 - [Incrementing Counter](../master/incrementing-counter)
 - [Drink Water](../master/drink-water)
 - [Movie App](../master/movie-app)
-- Background Slider
-- Theme Clock
+- [Background Slider](../master/background-slider)
+- [Theme Clock](../master/theme-clock)
 - Button Ripple Effect
 - Drag n Drop
 - Drawing App
+- Kinetic CSS Loader
+- Content Placeholder
+- Sticky Navbar
 -
 -
 -
