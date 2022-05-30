@@ -73,7 +73,7 @@ Kurssi suoritettu keväällä 2021.
 - [Movie App](../master/movie-app)
 - [Background Slider](../master/background-slider)
 - [Theme Clock](../master/theme-clock)
-- Button Ripple Effect
+- [Button Ripple Effect](../master/button-ripple-effect)
 - Drag n Drop
 - Drawing App
 - Kinetic CSS Loader
