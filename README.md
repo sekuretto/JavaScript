@@ -74,11 +74,13 @@ Kurssi suoritettu keväällä 2021.
 - [Background Slider](../master/background-slider)
 - [Theme Clock](../master/theme-clock)
 - [Button Ripple Effect](../master/button-ripple-effect)
-- Drag n Drop
+- [Drag n Drop](../master/drag-n-drop)
 - Drawing App
 - Kinetic CSS Loader
 - Content Placeholder
 - Sticky Navbar
+- Double Vertical Slider
+- Toast Notification
 -
 -
 -
