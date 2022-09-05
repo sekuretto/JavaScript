@@ -76,11 +76,13 @@ Kurssi suoritettu keväällä 2021.
 - [Button Ripple Effect](../master/button-ripple-effect)
 - [Drag n Drop](../master/drag-n-drop)
 - [Drawing App](../master/drawing-app)
-- Kinetic CSS Loader
-- Content Placeholder
+- [Kinetic CSS Loader](../master/kinetic-loader)
+- [Content Placeholder](../master/content-placeholder)
 - Sticky Navbar
 - Double Vertical Slider
 - Toast Notification
+- Github Profiles
+- Double Heart Click
 -
 -
 -

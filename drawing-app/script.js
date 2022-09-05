@@ -1,3 +1,4 @@
+//https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API 
 const canvas = document.getElementById('canvas');
 const increaseBtn = document.getElementById('increase');
 const decreaseBtn = document.getElementById('decrease');
@@ -35,7 +36,7 @@ canvas.addEventListener('mousemove', (e) => {
       drawCircle(x2, y2)
       drawLine(x, y, x2, y2)
 
-      x = x2
+      x = x2 
       y = y2
   }
 })
