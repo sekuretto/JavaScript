@@ -87,5 +87,9 @@ Kurssi suoritettu keväällä 2021.
 -
 -
 
-Muut projektit:  
+Kurssin Github: https://github.com/bradtraversy/50projects50days
+
+---
+
+**Muut projektit**  
 [Typewriter](../master/typewriter): typewriter-efekti websivuille

@@ -1,6 +1,5 @@
 ## Expanding Cards
 
-Image gallery (or data cards) with expanding cards  
+Image gallery (or data cards) with clickable expanding cards.
 
-![Expanding Cards](expanding-cards.png)  
-
+![Expanding Cards](expanding-cards.png)
