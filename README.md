@@ -23,6 +23,10 @@ https://student.labranet.jamk.fi/~K8691/webohjelmointi.html
 
 Kurssi suoritettu kesällä 2020.
 
+**Modern JavaScript From The Beginning 2.0 - 2023 Revamp** (Brad Traversy/Udemy)
+
+Kurssi aloitettu kesällä 2023, päivitetään edellä listatut aiemmat harjoitusprojektit ja niiden toimintaa...
+
 ---
 
 **20 Web Projects With Vanilla JavaScript** (Brad Traversy/Udemy) -kurssin harjoitusprojektit:
@@ -88,6 +92,7 @@ Kurssi suoritettu keväällä 2021.
 -
 
 Kurssin Github: https://github.com/bradtraversy/50projects50days
+Kurssi käynnissä kesällä 2023.
 
 ---
 
