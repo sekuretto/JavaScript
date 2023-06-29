@@ -2,7 +2,9 @@ const boxes = document.querySelectorAll('.box')
 
 window.addEventListener('scroll', checkBoxes)
 
+//first call of function shows first boxes that fit the screen
 checkBoxes()
+//if removed, all boxes show up ONLY AFTER scrolling starts
 
 function checkBoxes() {
     const triggerBottom = window.innerHeight / 5 * 4
