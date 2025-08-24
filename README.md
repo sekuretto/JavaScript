@@ -54,6 +54,8 @@ Kurssi aloitettu kesällä 2023, päivitetään edellä listatut aiemmat harjoit
 
 Kurssi suoritettu keväällä 2021.
 
+- [Product Filtering UI](../master/product-filtering-UI) (added project 2025, Tailwind)
+
 ---
 
 **50 Projects In 50 Days - HTML, CSS & JavaScript** (Brad Traversy/Florin Pop/Udemy) -kurssin harjoitusprojektit:
@@ -92,7 +94,7 @@ Kurssi suoritettu keväällä 2021.
 -
 
 Kurssin Github: https://github.com/bradtraversy/50projects50days
-Kurssi käynnissä kesällä 2023.
+Kurssi käynnissä...
 
 ---
 
