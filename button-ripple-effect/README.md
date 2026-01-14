@@ -1,6 +1,6 @@
 ## Button Ripple Effect
 
-Button with a ripple effect animation centering on position where the button is clicked.
+Button with a ripple effect animation that centers from position where the button is clicked.
 
 https://www.w3schools.com/jsref/obj_mouseevent.asp
 
